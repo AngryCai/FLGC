@@ -2,7 +2,7 @@
 Codes for " Fully Linear Graph Convolutional Networks for SemiSupervised Learning and Clustering " 
 
 
-TBA
+Coming soon
 
 
 Codes can be shared if required.
