@@ -5,4 +5,4 @@ Codes for " Fully Linear Graph Convolutional Networks for SemiSupervised Learnin
 Coming soon
 
 
-Codes can be shared if required.
+Codes will be shared if required.
