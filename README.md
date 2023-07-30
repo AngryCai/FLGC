@@ -1,4 +1,4 @@
-#A simple tutorial for FLGC
+# A simple tutorial for FLGC
 
 ### Requirement ###
 
